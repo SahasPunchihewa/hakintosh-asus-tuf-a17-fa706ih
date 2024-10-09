@@ -23,6 +23,9 @@ This guide provides steps and tips for setting up macOS Ventura on the ASUS TUF 
   - Proper USB mapping for functional ports
   - Battery management tweaks for better performance
 
+## 🐞 Issues
+- Wifi not working (Realtek 8822CE)
+
 ## 📝 Setup Guide
 
 ### 1. Prepare macOS Bootable Drive:
