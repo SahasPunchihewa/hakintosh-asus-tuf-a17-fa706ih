@@ -25,6 +25,9 @@ This guide provides steps and tips for setting up macOS Ventura on the ASUS TUF 
 
 ## 🐞 Issues
 - Wifi not working (Realtek 8822CE)
+- USB Type-C port not working (Power delivery working)
+- Display and keyboard brightness controllers not working
+- Hardware accelaration not working (Chrome might crash or slow) 
 
 ## 📝 Setup Guide
 
